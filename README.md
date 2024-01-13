@@ -1,7 +1,5 @@
 # ![GIF](./assets/iconDuck.gif) ‧͙⁺˚*･༓☾ Hi, my name is Dariana ☽༓･*˚⁺‧͙ ![GIF](./assets/iconDuck.gif)
 
-🖥️ Aspiring to be a `Web Developer`. Focused on learning *UX/UI design* and *JavaScript advanced*. I'm open to collaborating on projects related to the web.
-
 ## Socials
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daricorreamedina@gmail.com)
