@@ -1,7 +1,5 @@
 # ‧͙⁺˚*･༓☾ 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓅𝓇𝑜𝒻𝒾𝓁𝑒 ![GIF](./assets/iconDuck.gif)☽༓･*˚⁺‧͙
 
-![Banner](./assets/bannerProfile.png)
-
 _**Hello, this is Dariana. I am currently focused on being a good Front-End developer. I have worked as a frontend web developer for about two years and during that time I learned the basic and important languages HTML, CSS and JavaScript.**_
 
 ## 𝑆𝑘𝑖𝑙𝑙𝑠
