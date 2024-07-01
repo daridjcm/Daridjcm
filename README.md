@@ -9,3 +9,6 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XZSuGbVyp7)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Daridjcm)
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/daridjcm?utm_source=linktree_profile_share&ltsid=4204b036-2d22-4083-85ea-4cf36360354b)
+
+## 𝑆𝑡𝑎𝑡𝑠
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daridjcm&layout=compact)
