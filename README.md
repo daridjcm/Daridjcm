@@ -11,4 +11,5 @@
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/daridjcm?utm_source=linktree_profile_share&ltsid=4204b036-2d22-4083-85ea-4cf36360354b)
 
 ## 𝑆𝑡𝑎𝑡𝑠
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daridjcm&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daridjcm&layout=compact&langs_count=100)
+![Stats](https://github-readme-stats.vercel.app/api?username=daridjcm&show_icons=true&bg_color=#fff)
