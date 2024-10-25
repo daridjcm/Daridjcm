@@ -1,6 +1,6 @@
 ## 𝑆𝑘𝑖𝑙𝑙𝑠
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,git,bootstrap,jest,react,wordpress,tailwind,sass,vite,nodejs,markdown,vercel,figma,ps,pr,ae,ai&theme=light&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,wordpress,tailwind,sass,astro,react,jest,regex,vite,git,nodejs,ae,au,pr,ps,ai,svg,md&theme=light&perline=10)](https://skillicons.dev)
 
 ## 𝐶𝑜𝑛𝑡𝑎𝑐𝑡 𝑀𝑒
 
